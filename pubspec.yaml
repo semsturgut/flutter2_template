@@ -21,6 +21,8 @@ dependencies:
   flutter_bloc: 7.0.0
   # Storage
   # flutter_secure_storage: 4.2.0
+  # Dependency Injection
+  # get_it: 7.1.3
   
 
 dev_dependencies:
